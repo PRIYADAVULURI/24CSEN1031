@@ -22,3 +22,12 @@ else
 }
 return 0;
 }
+
+
+OUTPUT:
+Enter an integer number:403
+
+The given number= 403
+403 is not Armstrong
+
+=== Code Execution Successful ===
